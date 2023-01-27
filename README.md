@@ -9,26 +9,20 @@ Our project is an intelligent mobile robot system, Able to perform a simple task
 
 * With regard to mapping, the map will be already generated because the environment (workspace) where the robot will navigate is already known.
 
+<h2 align="center">The inspired idea:</h2>
 
+Our idea inspired by the kiva robot system of Amazon; what does the kiva robot do?? .
+When an order is entered into the Kiva database system, the software locates the 
+closest automated guided vehicle (bot) to the item and directs it to retrieve it. The 
+mobile robots navigate around the warehouse (Known environment) by following a 
+series of computerized bar-code stickers on the floor (Simple technique of 
+localization)
 
-* Manage directory services and authentication.
+This is a link of a video about the Kiva system robot of Amazon : https://www.youtube.com/watch?v=WzjTr9FspbU&ab_channel=FastCompany
 
-<h2 align="center">Project:</h2>
-
-The task is to build a network divided into two subnets with:
-
-* One DHCP server responsible for delivering addresses to devices connected on both subnets.
-* Managing the domain names will be handled by the DNS server.
-* The FTP server is used to share files in only one subnet (users on the other subnet
-are not allowed to access this service).
-* An HTTP server managing two web pages. One is accessible to all hosts, and one
-with restricted access (user-password).
-* A server managing the email exchange in the company.
-* LDAP (Lightweight Directory Access Protocol) is used for directory services and
-authentication.
-
-<h2 align="center">Tools:</h2>
-In this project we are used ubuntu, windows server as virtual machine to configure all tasks requested.
+<h2 align="center">Localization Technique:</h2>
+Our mobile robot will be largely similar to the kiva system robot, But we will use another technique of localization (not the bar-code stickers) that is Line tracking 
+Localization Technique (Suivi de ligne) and the workspace will be mapped using the Cartesian coordinates,
 
 <h2 align="center">Report</h2>
   Steps to configure the entreprise network contact me.
