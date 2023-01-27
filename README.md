@@ -17,14 +17,16 @@ closest automated guided vehicle (bot) to the item and directs it to retrieve it
 mobile robots navigate around the warehouse (Known environment) by following a 
 series of computerized bar-code stickers on the floor (Simple technique of 
 localization)
-![1](1.png)
-
 
 This is a link of a video about the Kiva system robot of Amazon : https://www.youtube.com/watch?v=WzjTr9FspbU&ab_channel=FastCompany
 
 <h2 align="center">Localization Technique:</h2>
 Our mobile robot will be largely similar to the kiva system robot, But we will use another technique of localization (not the bar-code stickers) that is Line tracking 
-Localization Technique (Suivi de ligne) and the workspace will be mapped using the Cartesian coordinates,
+Localization Technique (Suivi de ligne) and the workspace will be mapped using the Cartesian coordinates,in this way
+<br />
+<br />
+![1](1.png)
+
 
 
 <h2 align="center">Cognition (Tasks planning ):</h2>
@@ -46,7 +48,6 @@ We constructed our robot by following the next stages in order :
 * Use advanced techniques of localization.
 
 <h2 align="center">Report</h2>
-To know more information and details about this project,Be free to contact me.
-
-LnkedIn : https://www.linkedin.com/in/naciri-imad-eddine-9068a11bb/
+To know more information and details about this project,Be free to contact me.<br />
+LnkedIn : https://www.linkedin.com/in/naciri-imad-eddine-9068a11bb/<br />
 Email : naciri.works@gmail.com
