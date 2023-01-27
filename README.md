@@ -1,4 +1,4 @@
-# mobile-robot-Navigation-and-Localization
+# Mobile-robot-Navigation-and-Localization
 Our project is an intelligent mobile robot system, Able to perform a simple tasks in  real-world environment. 
 
 <h2 align="center">Project description:</h2>
