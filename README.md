@@ -17,6 +17,8 @@ closest automated guided vehicle (bot) to the item and directs it to retrieve it
 mobile robots navigate around the warehouse (Known environment) by following a 
 series of computerized bar-code stickers on the floor (Simple technique of 
 localization)
+![1](1.png)
+
 
 This is a link of a video about the Kiva system robot of Amazon : https://www.youtube.com/watch?v=WzjTr9FspbU&ab_channel=FastCompany
 
