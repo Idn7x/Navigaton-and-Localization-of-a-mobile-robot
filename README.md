@@ -3,14 +3,12 @@ Our project is an intelligent mobile robot system, Able to perform a simple task
 
 <h2 align="center">Project description:</h2>
 
-Our project is an intelligent mobile robot system, Able to perform a simple tasks in 
-real-world environment. 
+* Our project is an intelligent mobile robot system, Able to perform a simple tasks in real-world environment. 
 
-This robot will navigate in indoor environment (Known environment) using a simple 
-technique of localization.
+* This robot will navigate in indoor environment (Known environment) using a simple technique of localization.
 
-With regard to mapping, the map will be already generated because the environment 
-(workspace) where the robot will navigate is already known.
+* With regard to mapping, the map will be already generated because the environment (workspace) where the robot will navigate is already known.
+
 
 
 * Manage directory services and authentication.
