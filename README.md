@@ -35,9 +35,16 @@ We constructed our robot by following the next stages in order :
 * Electronic components.
 * Localization and Navigation techniques.
 * Wireless communication taking into account the security aspect.
-* Graphical user interface (GUI) using LabView/Matlab.
+* Graphical user interface (GUI) using LABVIEW.
+
+<h2 align="center">Extensibility :</h2>
+
+* Use Mecanum wheels instead of normal wheels. 
+* Build a manipulator (Arm)to use it with the robot (Above the platform of the robot to hold things); - mobile manipulator robot -
+* Use advanced techniques of localization.
 
 <h2 align="center">Report</h2>
-  Steps to configure the entreprise network contact me.
-  
-  <naciri.works@gmail.com>
+To know more information and details about this project,Be free to contact me.
+
+LnkedIn : https://www.linkedin.com/in/naciri-imad-eddine-9068a11bb/
+Email : naciri.works@gmail.com
