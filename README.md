@@ -22,8 +22,7 @@ This is a link of a video about the Kiva system robot of Amazon : https://www.yo
 
 <h2 align="center">Localization Technique:</h2>
 Our mobile robot will be largely similar to the kiva system robot, But we will use another technique of localization (not the bar-code stickers) that is Line tracking 
-Localization Technique (Suivi de ligne) and the workspace will be mapped using the Cartesian coordinates,in this way
-<br />
+Localization Technique (Suivi de ligne) and the workspace will be mapped using the Cartesian coordinates,in this way.<br />
 <br />
 ![1](1.png)
 
